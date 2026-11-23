@@ -1,0 +1,15 @@
+Image to Pixel Art (Deno app)
+=============================
+
+This application uses:
+
+1. @sherotree/image-to-pixel-art (MIT)
+   https://jsr.io/@sherotree/image-to-pixel-art
+   https://github.com/sherotree/image-to-pixel-art
+
+2. Pixel It algorithm origins (MIT)
+   Copyright (c) 2019 José Moreira
+   https://github.com/giventofly/pixelit
+
+Web tool reference (not affiliated branding in this repo's prose):
+https://www.uwarp.design/image-to-pixel-art
